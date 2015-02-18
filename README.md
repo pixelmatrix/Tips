@@ -10,5 +10,7 @@ Time spent: Approximately 6 hours
 * [x] User can adjust tip amount
 * [x] User can see the bill split multiple ways
 
+![Video Walkthrough](Demo.gif)
+
 ##### Notes:
 Added some nice finishing touches here. The main calculator view animates into the center of the screen when the field is focused. I've made it so the field only accepts valid currency, and always shows two decimal places. There's a progressive delay in the transition for each of the split totals. The fonts are all custom as well.
